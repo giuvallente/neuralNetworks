@@ -77,7 +77,7 @@ plt.show()
 
 
 # %% 
-# --8<--[start:itemB]
+# --8<-- [start:itemB]
 class Perceptron:
     def __init__(self, n_features, eta=0.01, rng=None):
         if rng is None:
